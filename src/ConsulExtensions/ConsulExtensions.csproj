@@ -17,6 +17,8 @@
     <Authors>NXHub</Authors>
     <PackageProjectUrl>https://github.com/nxhub/ConsulExtensions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nxhub/ConsulExtensions</RepositoryUrl>
+    <AssemblyName>NXHub.Consul.AspNetCore</AssemblyName>
+    <RootNamespace>NXHub.Consul.AspNetCore</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

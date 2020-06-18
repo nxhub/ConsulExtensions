@@ -1,5 +1,5 @@
 ## 概述
-扩展 Consul，程序启动前，注入 Consul 客户端到 Asp.Net Core 容器。
+扩展 [Consul](https://github.com/G-Research/consuldotnet)，程序启动前，注入 Consul 客户端到 Asp.Net Core 容器。
 
 ## 安装
 ```xml

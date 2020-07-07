@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ConsulExtensions.Demo.Controllers
+namespace ConsulExtensions.Sample.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

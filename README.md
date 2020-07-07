@@ -3,7 +3,7 @@
 
 ## 安装
 ```xml
-<PackageReference Include="NXHub.Consul.AspNetCore" Version="0.0.1" />
+<PackageReference Include="NXHub.Consul.AspNetCore" Version="0.0.2" />
 ```
 
 ## 使用

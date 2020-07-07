@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ConsulExtensions.Demo": {
+    "ConsulExtensions.Sample": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

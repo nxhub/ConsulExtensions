@@ -11,12 +11,12 @@
     <PackageIcon>icon.png</PackageIcon>
     <RepositoryType>GIT</RepositoryType>
     <PackageTags>nxhub consul aspnetcore</PackageTags>
-    <PackageReleaseNotes>完成接口，发布正式版。</PackageReleaseNotes>
-    <Version>0.0.1</Version>
+    <PackageReleaseNotes>修改图标。</PackageReleaseNotes>
+    <Version>0.0.2</Version>
     <Product>NXHub.Consul.AspNetCore</Product>
     <Authors>NXHub</Authors>
     <PackageProjectUrl>https://github.com/nxhub/ConsulExtensions</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/nxhub/ConsulExtensions</RepositoryUrl>
+    <RepositoryUrl>https://github.com/nxhub/ConsulExtensions.git</RepositoryUrl>
     <AssemblyName>NXHub.Consul.AspNetCore</AssemblyName>
     <RootNamespace>NXHub.Consul.AspNetCore</RootNamespace>
   </PropertyGroup>
@@ -27,11 +27,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\icon.png">
+    <None Include="..\..\icon.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
-    <None Include="..\..\..\LICENSE">
+    <None Include="..\..\LICENSE">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>

@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+    <AssemblyName>NXHub.Consul.AspNetCore</AssemblyName>
+    <RootNamespace>NXHub.Consul.AspNetCore</RootNamespace>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>..\..\nxhub.snk</AssemblyOriginatorKeyFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageId>NXHub.Consul.AspNetCore</PackageId>
@@ -17,8 +21,6 @@
     <Authors>NXHub</Authors>
     <PackageProjectUrl>https://github.com/nxhub/ConsulExtensions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nxhub/ConsulExtensions.git</RepositoryUrl>
-    <AssemblyName>NXHub.Consul.AspNetCore</AssemblyName>
-    <RootNamespace>NXHub.Consul.AspNetCore</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
